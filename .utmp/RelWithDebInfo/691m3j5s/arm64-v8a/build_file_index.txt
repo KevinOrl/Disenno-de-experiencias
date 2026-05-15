@@ -1,2 +1,0 @@
-F:\Tec\Diseno de exp de aprendizaje\Simulacion_Proyecto\Simulacion\Simulacion - copia\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
-F:\Tec\Diseno de exp de aprendizaje\Simulacion_Proyecto\Simulacion\Simulacion - copia\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
